@@ -1,0 +1,87 @@
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+header {
+   background-color: #187577;
+   padding: 20% 10%;
+   
+  /*  background-image: url(Book\ lover-bro.png) 20%;
+   display: block;*/
+
+}
+
+
+ h1 {
+
+    font-size: 60px;
+    color: white;
+
+}
+
+h2 {    padding-bottom: 10px;
+
+    color: #187577;
+}
+
+h3 {
+
+        color: #187577;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#imageheader {
+    position: absolute; /* Para posicionar la imagen en la esquina superior derecha */
+    top: 10%; /* Ajusta esto si es necesario */
+    right: 10%; /* Ajusta esto si es necesario */
+    width: 35%; /* Ajusta el tamaño según tus necesidades */
+    /* Añade otros estilos si es necesario */
+}
+
+
+#menu {
+    text-align: center;
+    margin-top: 5% ;
+    margin-bottom: 3% ;
+
+    
+}
+
+.nombredef {
+    font-weight: 600;
+}
+
+.botonmenu {
+    margin: 10px;
+    font-size: 20px;
+    padding: 15px 30px;
+    border-radius: 15px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #187577;
+    border: 0;
+    }
+
+div.resumen {
+
+    padding: 5% 25%;
+    background-color: #E9F9EE;
+    
+    /*background-image: url(fondo\ prueba\ resumen.jpg);*/
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+p {
+ background-color: white;
+ padding: 15px;
+
+}
+
